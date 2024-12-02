@@ -1,2 +1,2 @@
 # hacknocturn
-I am working on the homw page and zoom in functionality 
+I am working on the homepage and zoom in functionality 
